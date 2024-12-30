@@ -12,7 +12,7 @@ function App() {
         <button onClick={() => setCount((count) => count + 2)}>
           count is {count}
         </button>
-         <p>hello world</p>
+         <p>Archit Jain</p>
       </div>
     </>
   )
