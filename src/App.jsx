@@ -14,7 +14,7 @@ function App() {
         </button>
 
         <div> hello world archit v3</div>
-        <d>this is the test</d
+        <div>this is the test</div>
       </div>
     </>
   )
